@@ -1,0 +1,618 @@
+html {
+    margin: 0;\position: relative;
+    width: 1440px;
+    height: 3710px;
+    font-family: 'Circular Std';
+    background: #FFFFFF;
+}
+
+/* Frame */
+.frame {
+position: absolute;
+width: 202px;
+height: 28px;
+left: 81px;
+top: 30px;
+}
+
+/* Group */
+.group {
+position: absolute;
+left: 0%;
+right: 0.01%;
+top: 0%;
+bottom: -0.11%;
+}
+
+/* Top Nav */ 
+.topnav {
+position: absolute;
+height: 80px;
+left: 0px;
+right: 0px;
+top: 0px;
+background: #FFFFFF;
+}
+
+
+a {
+    /* Features */
+width: 58px;
+height: 18px;
+text-decoration: none;
+font-family: 'Circular Std';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height */
+letter-spacing: 0.03em;
+
+/* dark-navy */
+color: #000C2D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+}
+ /* Vector */
+/* span {
+position: absolute;
+left: 0%;
+right: 90.29%;
+top: 33.37%;
+bottom: 0%;
+background: #000000;
+} */
+
+/* Frame 34 */
+ul {
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 32px;
+position: absolute;
+width: 669px;
+height: 44px;
+left: 642px;
+top: 18px;
+list-style: none;
+}
+
+/* Rectangle */
+.hero {
+position: absolute;
+width: 1440px;
+height: 565px;
+left: 0px;
+top: 80px;
+background: #2F70FE;
+
+}
+
+
+/* Rectangle */
+.conteiner {
+
+width: 1440px;
+height: 561px;
+top: 549px;
+gap: 0px;
+opacity: 0.6px;
+
+
+}
+
+/* Find the right partners to fuel your business growth */
+.text1 {
+width: 620px;
+height: 130px;
+font-family: 'Circular Std';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 65px;
+/* or 135% */
+text-align: center;
+color: #FFFFFF;
+margin: 0;
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+/* Join a vibrant community of MSPs to forge long-lasting relationships with partners that help you create excellent customer experiences */
+.text2 {
+width: 605px;
+height: 60px;
+margin: 0;
+font-family: 'Circular Std';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+/* or 188% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+/* Hero Text */
+.herotext {
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 3px;
+width: 789px;
+height: 197px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+}
+
+.heroconteiner {
+    /* Frame 6 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 33px;
+
+position: absolute;
+width: 789px;
+height: 282px;
+left: 325px;
+top: 114px;
+
+}
+
+.button {
+    /* Frame 5 */
+
+/* Auto layout */
+
+align-items: center;
+padding: 16px 25px;
+width: 162px;
+height: 52px;
+
+background: #000000;
+
+/* Inside auto layout */
+
+}
+
+/* Register today */
+h2 {
+width: 112px;
+height: 20px;
+padding-left: 25px;
+font-family: 'Circular Std';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+ flex: none;
+order: 0;
+flex-grow: 0;
+/* 
+.register {
+    width: Hug (162px)px;
+height: Hug (52px)px;
+padding: 16px 25px 16px 25px;
+gap: 10px;
+opacity: 0px;
+color: white;
+} */
+}
+/* Partner hero image left */
+
+.logoleft {
+position: absolute;
+width: 389.74px;
+height: 254.87px;
+left: 98px;
+top: 320px;
+}
+
+/* Partner hero image right */
+.logoright {
+position: absolute;
+left: 972px;
+right: 8.88%;
+top: 207px;
+bottom: 8x4.69%;
+mix-blend-mode: luminosity;
+}
+
+.h1 {
+    /* List. Sell. Grow */
+
+    width: 290px;
+    height: 51px;
+    top: 693px;
+    left: 574px;
+    gap: 0px;
+    opacity: 0px;
+    
+
+font-family: 'Circular Std';
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 51px;
+/* identical to box height */
+text-align: center;
+letter-spacing: 0.02em;
+
+color: #000000;
+}
+
+.img_group {
+    /* all in one platform */
+
+width: 100px;
+height: 100px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+}
+
+.allinone {
+    /* Frame 89 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 24px;
+
+width: 253px;
+height: 178px;
+border: #000000 solid 1px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+}
+
+.come_closer {
+    /* Frame 90 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 24px;
+
+width: 236px;
+height: 178px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+border: #000000 solid 1px;
+}
+
+.grow_business {
+    /* Frame 91 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 24px;
+
+width: 223px;
+height: 178px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+border: #000000 solid 1px;
+}
+
+.conteiner2 {
+    /* Frame 92 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 56px;
+
+position: absolute;
+width: 824px;
+height: 178px;
+left: 308px;
+top: 784px;
+border: #2F70FE solid 1px;
+
+}
+/* .frame { */
+    /* Frame */
+/* 
+position: absolute;
+width: 48px;
+height: 48px;
+left: 102.5px;
+top: 29.5px;
+} */
+
+.frame_img {
+    /* Group */
+
+position: absolute;
+left: 2.08%;
+right: 2.08%;
+top: 2.08%;
+bottom: 2.08%;
+}
+
+/* Ellipse 28 */
+/* .frame {
+position: absolute;
+width: 100px;
+height: 100px;
+left: 76.5px;
+top: 0px;
+background: #2F70FE;
+opacity: 0.1;
+} */
+
+.footer {
+    /* Group 126 */
+
+position: absolute;
+width: 1440px;
+height: 397px;
+left: 0px;
+top: 3313px;
+border: #000000 solid 2px;
+
+}
+
+.one {
+/* Frame 8 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+position: absolute;
+width: 410px;
+height: 152px;
+left: 255px;
+top: 1324px;
+
+
+
+border: red solid 5px;
+}
+
+
+
+.h3 {
+    /* Your channel program on steroids */
+
+width: 379px;
+height: 74px;
+
+font-family: 'Circular Std';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 37px;
+/* or 132% */
+
+/* Black */
+color: #181818;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+}
+
+.two {
+    /* Your channel program  on steroids */
+
+position: absolute;
+width: 421px;
+height: 310px;
+left: 786px;
+top: 1221px;
+border: red solid 5px;
+}
+
+.three {
+    border: red solid 5px;
+    /* Become the vendor everyone wants to buy from */
+
+position: absolute;
+width: 380px;
+height: 255.54px;
+left: 213px;
+top: 1705px;
+
+
+}
+
+.four {
+    border: red solid 5px;
+    /* Frame 93 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+position: absolute;
+width: 410px;
+height: 231px;
+left: 800px;
+top: 1716px;
+}
+
+.five {
+    /* Frame 94 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+position: absolute;
+width: 410px;
+height: 258px;
+left: 255px;
+top: 2146px;
+border: red solid 5px;
+}
+
+.six {
+/* It’s like having Your best Salesman on autopilot */
+
+position: absolute;
+width: 256.11px;
+height: 259.52px;
+left: 825px;
+top: 2129px;
+border: red solid 5px;
+
+}
+
+.seven {
+/* Track your channel performance */
+
+position: absolute;
+width: 282.98px;
+height: 240.4px;
+left: 262px;
+top: 2534px;
+border: red solid 5px;
+
+}
+
+.eight {
+/* Frame 95 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+position: absolute;
+width: 410px;
+height: 231px;
+left: 800px;
+top: 2558px;
+border: red solid 5px;
+
+}
+
+.nine {
+/* Frame 96 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+position: absolute;
+width: 410px;
+height: 258px;
+left: 255px;
+top: 2935px;
+border: red solid 5px;
+
+}
+
+.ten {
+/* Get The best version of  Your sales playbook */
+
+position: absolute;
+width: 346.76px;
+height: 320.69px;
+left: 818px;
+top: 2904px;
+
+border: red solid 5px;
+}
+
+/* Be a part of the only All-In-One platform for IT services */
+
+width: 253px;
+height: 54px;
+
+font-family: 'Circular Std';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 27px;
+/* or 169% */
+text-align: center;
+letter-spacing: 0.01em;
+
+/* dark-navy */
+color: #000C2D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
